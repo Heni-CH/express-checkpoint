@@ -37,7 +37,7 @@ ul li {
   position: relative;
   line-height: 1;
   opacity: 1;
-  margin: -32px 0 22px auto;
+  margin:  0 22px auto;
   width: auto;
   display:inline-block;
   
@@ -158,6 +158,9 @@ h1{
 }
 
 
-
+.serv{
+  margin-top: 200px;
+  padding-top: 200px;
+}
 
 
