@@ -1,0 +1,163 @@
+html{
+  box-sizing: border-box;
+  font-family: sans-serif;
+  overflow-y: auto;
+  overflow-x: hidden;
+  font-size: 16px;
+}
+
+body{
+  box-sizing: border-box;
+  margin: 0;
+  height: auto;
+  min-height: 100%;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.6;
+  font-family: 'Open Sans',sans-serif;
+  color: #111111;
+  background-color: #ffffff;
+}
+
+.main-header{
+  font-size: 1rem;
+  line-height: 1.6;
+  font-family: 'Open Sans',sans-serif;
+  color: #111111;
+  box-sizing: border-box;
+  display: block;
+  position: relative;
+  background-image: none;
+}
+ul li {
+  font-size: 2rem;
+  font-family: 'Open Sans',sans-serif;
+  color: #111111;
+  box-sizing: border-box;
+  position: relative;
+  line-height: 1;
+  opacity: 1;
+  margin: -32px 0 22px auto;
+  width: auto;
+  display:inline-block;
+  
+  vertical-align: top;
+    
+  
+}
+
+
+.logo{
+  box-sizing: border-box;
+border-style: none;
+max-width: 200px;
+max-height: 200px;
+display: block;
+}
+
+.section1{
+font-size: 1rem;
+line-height: 1.6;
+font-family: 'Open Sans',sans-serif;
+color: #111111;
+box-sizing: border-box;
+display: block;
+position: relative;
+background-image: none;
+min-height: 895px;
+}
+.container{
+  font-size: 1rem;
+  line-height: 1.6;
+  font-family: 'Open Sans',sans-serif;
+  box-sizing: border-box;
+  position: relative;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  color: #111111;
+  background-image: linear-gradient(#fd5900, #f96a4b);
+  margin: 0 auto 0 0;
+  height: 580px;
+}
+.img1{
+  font-size: 1rem;
+line-height: 1.6;
+font-family: 'Open Sans',sans-serif;
+box-sizing: border-box;
+border-style: none;
+position: relative;
+object-fit: cover;
+display: block;
+background-size: cover;
+background-repeat: no-repeat;
+color: #111111;
+overflow: hidden;
+width: 927px;
+height: 618px;
+object-position: 12.76% 50%;
+background-position: 12.76% 50%;
+margin: -547px calc(((100% - 1140px) / 2) + 66px) 0 auto;
+}
+br{
+  line-height: 1.2;
+  font-family: Roboto,sans-serif;
+  word-wrap: break-word;
+  color: #ffffff !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 5.3125rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  box-sizing: border-box;
+}
+h1{
+  box-sizing: border-box;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+  font-family: Roboto,sans-serif;
+  word-wrap: break-word;
+  position: relative;
+  color: #ffffff !important;
+  padding: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 5.3125rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  width: auto;
+  margin-top: -518px;
+  margin-right: calc(((100% - 940px) / 2) + 145px);
+  margin-left: 50px;
+}
+ 
+.gallery{
+
+  font-size: 1rem;
+  line-height: 1.6;
+  font-family: 'Open Sans',sans-serif;
+  color: #111111;
+  box-sizing: border-box;
+  position: relative;
+  width: 785px;
+  height: 219px;
+  margin: 124px auto 0 96px;
+  margin-top: 108px;
+  margin-left: 50px;
+}
+
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+
+
+
+
